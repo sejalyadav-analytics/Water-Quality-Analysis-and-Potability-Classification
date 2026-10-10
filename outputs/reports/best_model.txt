@@ -1,0 +1,8 @@
+Best model by test F1-score: Decision Tree
+
+Model        Decision Tree
+Accuracy          0.596037
+Precision         0.483755
+Recall            0.523438
+F1-score          0.502814
+ROC-AUC           0.610049
